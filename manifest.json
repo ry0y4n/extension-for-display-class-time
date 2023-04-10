@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "ClassTimeDisplay",
+  "version": "1.0",
+  "description": "This is an extension that displays class times",
+  "content_scripts": [
+    {
+      "matches": ["https://twins.tsukuba.ac.jp/campusweb/campusportal.do?page=main&tabId=rs"],
+      "js": ["content.js"]
+    }
+  ]
+}
