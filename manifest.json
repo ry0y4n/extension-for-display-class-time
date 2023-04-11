@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "ClassTimeDisplay",
+  "name": "TWINS-ClassTimeDisplayer",
   "version": "1.0",
   "description": "This is an extension that displays class times",
   "content_scripts": [
