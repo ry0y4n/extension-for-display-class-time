@@ -8,7 +8,7 @@
 
 ## インストール方法
 
-1. Chromeウェブストアから拡張機能をインストールします（~~[リンク]()~~(WIP)）
+1. Chromeウェブストアから拡張機能をインストールします（[リンク](https://chrome.google.com/webstore/detail/classtimedisplay/cmkkonoipciookpgaijmgdbpljjognbg?hl=ja&authuser=0)）
 2. インストール後，ブラウザを再起動します
 
 ## デモ
